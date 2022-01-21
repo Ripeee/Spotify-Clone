@@ -1,3 +1,4 @@
 # Spotify playlist
+> Mengetahui Playlist menggunakan data Spotify
 
-> [Demo App] (https://ripeee.github.io/Spotify-Playlist)
+- [Spotify Web API](https://developer.spotify.com/documentation/web-api/)
